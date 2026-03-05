@@ -1,4 +1,4 @@
-# machine_learning_final_project
+# Piano Sustain Pedal Prediction with Threshold and KNN Models
 
 See: https://youtu.be/KRAEc4JiTVw
 
